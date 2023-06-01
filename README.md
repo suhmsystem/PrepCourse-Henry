@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo2 del prepcourse de Henry
+Ruben Untiveros
+
+Este es una prueba de clonar el reposiorio de github
